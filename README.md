@@ -63,8 +63,8 @@ The application supports the following categories:
 - Improved UI and dark mode
 
 
-##Author
+## Author
 
-###Y. Varun
+### Y. Varun
 
 B.Tech Information Technology
